@@ -2,9 +2,10 @@
 
 
 ----
- - Note. So far, these things working well for ChatGPT 
+<h2> - Note. So far, these things working well for ChatGPT 
  - We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT.
-  
+<h2>
+----
  - <https://chat.openai.com/>
 
 <ul> 
