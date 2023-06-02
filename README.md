@@ -1,5 +1,8 @@
 # ChatGPT 'eetools.eaa@api" (and other "modifierade") 
 
+
+----
+
  - <b>Note. So far, these things working well for ChatGPT
  - <b>We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT. 
   
